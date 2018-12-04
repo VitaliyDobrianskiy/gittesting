@@ -30,3 +30,11 @@ h5{
     left: 50%;
     transform: translate(-50%,-50%);
 }
+h6{
+    font-size: 61px;
+    color: gray;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
